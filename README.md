@@ -1,5 +1,10 @@
 # AI-Image-Model | Detectable Rock Paper Scissors Against an AI 
 
+## Getting Started 
+Add keras_model.h5 and labels.txt files to the jupyter project. Take an image using the webcam, file will be saved as photo.jpg. 
+
+To implement your own trainable image model, use the Teachable Machine link and export > TensorFlow > Keras (Model conversion type).
+
 ## Description
 This Rock Paper Scissors Game uses a webcam image of the users 'rock', 'paper', 'scissors' hand gestures against the random bot opponents move. 
 
