@@ -15,4 +15,4 @@ Platform (Jupyter Notebook in Google Collab)- [Jupyter Notebook](https://jupyter
 
 Self-Trained Keras Image Model - [Teachable Machine](https://teachablemachine.withgoogle.com/train/image)
 
-
+My Web Version - [Here](https://colab.research.google.com/drive/1omA31Yh4W_2mIYDp0uxetEaL9yN-Cmn9?usp=sharing)
