@@ -1,4 +1,4 @@
-# AI-Image-Model | Detectable Rock Paper Scissors Against an AI 
+# ML-Rock-Paper-Scissors-Image-Model | Detectable Rock Paper Scissors Against an AI 
 
 ## Getting Started 
 Add keras_model.h5 and labels.txt files to the jupyter project. Take an image using the webcam, file will be saved as photo.jpg. 
